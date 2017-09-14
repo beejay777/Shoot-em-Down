@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1497844646 source:e:\codeblocks\levels\main.cpp
+	<graphics.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<random>
+	<fstream>
+
