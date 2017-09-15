@@ -17,4 +17,4 @@ view the How to.. file in this link https://drive.google.com/file/d/0B9u3TLMjnmf
 
 And after properly adding the graphics.h and windows.h it is good to go.
 
-Contact: https://github.com/beejay777
+Contact: bijaypathak55@gmail.com
